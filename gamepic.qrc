@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/doo.ico</file>
+        <file>images/help.jpg</file>
+        <file>images/main.jpg</file>
+        <file>images/option.jpg</file>
+        <file>images/platform.png</file>
+        <file>images/README.md</file>
+        <file>images/bg.png</file>
+        <file>images/doodleL.png</file>
+        <file>images/doodleR.png</file>
+        <file>images/platformBL.png</file>
+        <file>images/ref.png</file>
+        <file>doodler.cpp</file>
+        <file>images/platformB.png</file>
+        <file>images/platformB2.png</file>
+        <file>images/platformB3.png</file>
+        <file>images/platformB4.png</file>
+        <file>images/platformN.png</file>
+        <file>images/spring1.png</file>
+        <file>images/spring2.png</file>
+        <file>images/trampoline1.png</file>
+        <file>images/trampoline2.png</file>
+        <file>images/propeller.png</file>
+        <file>images/jetpack.png</file>
+        <file>images/doodle_pL.png</file>
+        <file>images/doodle_pR.png</file>
+        <file>images/doodle_jL.png</file>
+        <file>images/doodle_jR.png</file>
+        <file>images/heart.png</file>
+        <file>images/monster1.png</file>
+        <file>images/monster2.png</file>
+        <file>images/monster3.png</file>
+        <file>images/bullet.png</file>
+    </qresource>
+</RCC>
